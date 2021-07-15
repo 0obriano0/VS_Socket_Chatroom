@@ -1,0 +1,4 @@
+-fpermissive -fopenmp
+
+
+-static-libgcc -lwinmm -fopenmp
